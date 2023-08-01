@@ -31,6 +31,9 @@ nav{
     justify-content: center;
     gap: 1rem;
 }
+.btn{
+    color: antiquewhite;
+}
 
 nav button{
     /* font-size: clamp(10px,14px + 3vw , 20px); */
