@@ -21,7 +21,9 @@ nav{
     min-height: 10vh;
     display: flex;
     justify-content: space-around;
-    box-shadow: rgba(241, 104, 104, 0.588) 0px 8px 24px;
+    color: black;
+
+    box-shadow: rgba(45, 42, 42, 0.588) 0px 8px 24px;
 }
 .ele{
     display: flex;
